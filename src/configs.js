@@ -1,6 +1,6 @@
 const config = {
     API: 'https://getjadwal.api.devcode.gethired.id/'
-    email: 'john@email.com',
+    email: 'febryola0402@gmail.com',
 };
 
 export { config };
